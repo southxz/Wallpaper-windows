@@ -1,4 +1,7 @@
-# Wallpaper Hacker  
+# Wallpaper Hacker
+
+[![Visitors](https://visitor-badge.laobi.icu/badge?page_id=southxz.DownloadSocialMedias)](https://github.com/southxz/DownloadSocialMedias)
+
 Wallpaper for Windows with an interactive hacker theme — using Lively Wallpaper.
 
 This project offers an animated hacker-themed wallpaper for Windows, fully compatible with **Lively Wallpaper**.  
